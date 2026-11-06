@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  },
+  "name": "lab-postgresql",
+  "version": "1.0.0",
+  "description": "ตัวอย่าง Web Application ที่เชื่อมต่อ **Frontend (HTML/CSS/Vanilla JavaScript)** → **Express API (Node.js)** → **PostgreSQL** ผ่านไลบรารี **node-postgres (`pg`)**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
